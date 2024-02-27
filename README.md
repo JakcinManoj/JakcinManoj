@@ -3,6 +3,7 @@
 <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Problem+Solver+?;Learner+?;Tech+Enthusiast+?;Software+Engineer+?;Tinkerer+?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG" /></a>
+    <br>
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" align="center" />
 <br>
 <br>
