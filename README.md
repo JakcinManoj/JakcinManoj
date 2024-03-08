@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="22" alt="Jade2301 on Telegram" target="_blank" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" >](https://t.me/Jade2301)
+[<img align="left" width="22" alt="Jade2301 on Telegram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" >](https://t.me/Jade2301)
 [<img align="left" width="22" alt="jake097700#0 on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.gg/mEjynurZ)
 [<img align="left" width="22" alt="Jake90776576 on Twitter" src="https://img.freepik.com/free-vector/new-twitter-x-logo-with-drop-shadow_1017-45419.jpg?w=740&t=st=1709029206~exp=1709029806~hmac=4fa23e79fdbc5831eb587673b6a57f92ad0d310147479c7402de2cb5730625f9">](https://twitter.com/Jake90776576)
 [<img align="left" width="22" alt="jakcinmanoj on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/jakcinmanoj/)
@@ -34,7 +34,7 @@
 
 <p align="center">
     <p align="center">
-    <a href="https://github.com/JakcinManoj"><img height="165" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JakcinManoj&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a target="_blank"  href="https://github.com/JakcinManoj"><img height="165" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JakcinManoj&theme=dracula&show_icons=true&hide_border=true"></a>
     <a href="https://github.com/JakcinManoj"><img height="165" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=JakcinManoj&theme=dracula&hide_border=true"></a>
     <a href="https://github.com/JakcinManoj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakcinManoj&theme=dracula&hide_border=true"  height="165">
