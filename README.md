@@ -34,7 +34,7 @@
 
 <p align="center">
     <p align="center">
-    <a target="_blank"  href="https://github.com/JakcinManoj"><img height="165" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JakcinManoj&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/JakcinManoj"><img height="165" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JakcinManoj&theme=dracula&show_icons=true&hide_border=true"></a>
     <a href="https://github.com/JakcinManoj"><img height="165" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=JakcinManoj&theme=dracula&hide_border=true"></a>
     <a href="https://github.com/JakcinManoj/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakcinManoj&theme=dracula&hide_border=true"  height="165">
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-    <a href="https://vue-portfolio-opal.vercel.app/"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=JakcinManoj&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id"></a>
+    <a href="https://vue-portfolio-opal.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=JakcinManoj&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id"></a>
     <a href="https://github.com/JakcinManoj"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=JakcinManoj&style=flat-square"></a>
 </p>
 
