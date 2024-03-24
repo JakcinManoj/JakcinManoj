@@ -1,4 +1,5 @@
-<h2>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jakcin! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jakcin! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
 <p><em>Problem Solver | Learner | Tech Enthusiast | Software Engineer | Tinkerer</em>
 <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
