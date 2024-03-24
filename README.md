@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-    <a href="https://vue-portfolio-opal.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=JakcinManoj&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id"></a>
+    <a href="https://vue-portfolio-opal.vercel.app/" ><img src="https://img.shields.io/website?down_message=Offline&label=JakcinManoj&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id" alt="Website"></a>
     <a href="https://github.com/JakcinManoj"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=JakcinManoj&style=flat-square"></a>
 </p>
 
