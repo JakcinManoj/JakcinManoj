@@ -1,10 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jakcin! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
-<p><em>Problem Solver | Learner | Tech Enthusiast | Software Engineer | Tinkerer</em>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jake! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
+<!-- <p><em>Problem Solver | Learner | Tech Enthusiast | Software Engineer | Tinkerer</em> -->
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Problem+Solver+?;Learner+?;Tech+Enthusiast+?;Software+Engineer+?;Tinkerer+?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG" /></p>
 <br>
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Problem+Solver+?;Learner+?;Tech+Enthusiast+?;Software+Engineer+?;Tinkerer+?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG" /></a>
-<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" align="center" />
+<p align="center"><img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" align="center" /></p>
+<!-- <br>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Problem+Solver+?;Learner+?;Tech+Enthusiast+?;Software+Engineer+?;Tinkerer+?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG" /></a> -->
+<!-- <br>
+<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" align="center" /> -->
 <br>
 <br>
 <p align="center">
@@ -55,7 +59,8 @@
 </p>
 
 <p align="center">
-    <a href="https://vue-portfolio-opal.vercel.app/" ><img src="https://img.shields.io/website?down_message=Offline&label=JakcinManoj&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id" alt="Website"></a>
+<!--     <a href="https://vue-portfolio-opal.vercel.app/" ><img src="https://img.shields.io/website?down_message=Offline&label=JakcinManoj&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id" alt="Website"></a> -->
+    <a rel="me" href="https://vue-portfolio-opal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/JakcinManoj-%40Online-blueviolet"></a>
     <a href="https://github.com/JakcinManoj"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=JakcinManoj&style=flat-square"></a>
 </p>
 
