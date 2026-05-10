@@ -12,8 +12,11 @@
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" align="center" /> -->
 <br>
 <p align="center">
-  <em>
-    This is ME, Jakcin Manoj, a <b>Postgraduate student</b> reading <b> PG Diploma in IT Infrastructure, Systems and Security</b> at <a href="https://www.sunbeaminfo.com/branch/hinjawadi"> <b>Sunbeam InfoTech Pvt. Ltd.</b>, Pune,Maharashtra</a>. Did <b>BE (ECE) Electronics and Communication Engineering</b> at <a href="https://www.sxcce.edu.in/"> <b>St. Xavier's Catholic  College of Engineering</b>, Kanyakumari</a>. <br></em>
+  <em> I'm a Backend Software Engineer currently at Accenture, Chennai, where I design and build event-driven microservices that power enterprise platforms at scale. My craft lies in architecting reliable systems that handle complex workflows with ease.
+
+From integrating cloud-native services on Azure, AWS, and OCI to containerizing workloads with Docker and Kubernetes, I bridge the gap between business requirements and production-grade engineering.
+
+Outside of work, I'm deeply curious about DevSecOps practices, AI-assisted development, and chaos engineering — always looking to build systems that are not just functional, but resilient and secure. </em>
       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
