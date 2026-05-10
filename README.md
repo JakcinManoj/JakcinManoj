@@ -40,8 +40,6 @@
 <p align="center">
     <p align="center">
     <a href="https://github.com/JakcinManoj"><img height="165" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=JakcinManoj&theme=dracula&hide_border=true"></a>
-    <a href="https://github.com/JakcinManoj/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakcinManoj&theme=dracula&hide_border=true"  height="165">
 </p>
   </a>
   <br>
